@@ -1,0 +1,2 @@
+# ResourceAvatar
+ok
